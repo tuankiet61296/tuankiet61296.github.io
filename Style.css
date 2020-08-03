@@ -98,3 +98,14 @@ body {
 	.text-lg-left {
 		text-align: left;
 }
+	#clickme {
+	position: fixed;
+    z-index: 99;
+    cursor: pointer;
+    bottom: 20px;
+    right: 30px;
+    outline: none;
+    background-color: #5ba4f1;
+    height: 30px;
+    width: 80px;
+}
